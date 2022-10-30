@@ -1,0 +1,32 @@
+{
+  "\u0000C:/Users/Eterex/Desktop/workspace/vite-ssr/node_modules/@inertiajs/server/lib/index.js?commonjs-exports": [],
+  "node_modules/@inertiajs/server/lib/index.js": [],
+  "resources/scripts/ssr.js": [],
+  "resources/views/layouts/default.vue?vue&type=script&setup=true&lang.ts": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/layouts/default.vue": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/components/laravel-logo.vue": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/components/inertia-logo.vue": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/components/resource-block.vue?vue&type=script&setup=true&lang.ts": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/components/resource-block.vue": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/pages/welcome.vue?vue&type=script&setup=true&lang.ts": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ],
+  "resources/views/pages/welcome.vue": [
+    "/build/assets/welcome.b07b5cb9.mjs"
+  ]
+}
