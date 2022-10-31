@@ -1,5 +1,5 @@
 
-# Inertiajs and Vite
+# Inertiajs and Vite (with SSR)
 
 A basic example inertiajs and vite inegration app for fullstack web application
 (with ssr config)
