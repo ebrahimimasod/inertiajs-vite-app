@@ -38,37 +38,37 @@ php artisan serve
 
 - for development :
 ```bash
-npm rnu dev
+npm run dev
 ```
 
 - for build (Client) :
 ```bash
-npm rnu build
+npm run build
 ```
 
 
 - for build (Server) :
 ```bash
-npm rnu build:ssr
+npm run build:ssr
 ```
 
 
 - start ssr server  :
 ```bash
-npm rnu dev:ssr
+npm run dev:ssr
 ```
 
 
 
 - build all (Client and Server)  :
 ```bash
-npm rnu build:all
+npm run build:all
 ```
 
 
 - build all and start ssr server (for production) :
 ```bash
-npm rnu serve
+npm run serve
 ```
 ## Features
 
