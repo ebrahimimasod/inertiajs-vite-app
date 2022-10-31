@@ -9,21 +9,26 @@ A basic example inertiajs and vite inegration app for fullstack web application
 clone this project and work on it:
 
 ```bash
- git clone https://github.com/ebrahimimasod/inertiajs-vite-app.git
- cd inertiajs-vite-app
+git clone https://github.com/ebrahimimasod/inertiajs-vite-app.git
+cd inertiajs-vite-app
 ```
     
 install dependencies npm and compoer:
 
 ```bash
- npm i && composer install
+npm i
 ```
+
+```bash
+composer install
+```
+
     
     
 run laravel application by below artisan command:
 
 ```bash
- php artisan serve
+php artisan serve
 ```
     
 
@@ -33,37 +38,37 @@ run laravel application by below artisan command:
 
 - for development :
 ```bash
- npm rnu dev
+npm rnu dev
 ```
 
 - for build (Client) :
 ```bash
- npm rnu build
+npm rnu build
 ```
 
 
 - for build (Server) :
 ```bash
- npm rnu build:ssr
+npm rnu build:ssr
 ```
 
 
 - start ssr server  :
 ```bash
- npm rnu dev:ssr
+npm rnu dev:ssr
 ```
 
 
 
 - build all (Client and Server)  :
 ```bash
- npm rnu build:all
+npm rnu build:all
 ```
 
 
 - build all and start ssr server (for production) :
 ```bash
- npm rnu serve
+npm rnu serve
 ```
 ## Features
 
