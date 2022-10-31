@@ -6,7 +6,7 @@
     <title>Laravel with Inertia</title>
     @vite
 </head>
-<body class="antialiased bg-gray-900">
+<body>
 @inertia
 </body>
 </html>

@@ -4,7 +4,9 @@
         "dev": "vite",
         "dev:ssr": "node public/build/server/ssr.mjs",
         "build": "vite build",
-        "build:ssr": "vite build --outDir ./public/build/server --ssr"
+        "build:ssr": "vite build --outDir ./public/build/server --ssr",
+        "build:all": "npm run build && npm run build:ssr",
+        "serve": "npm run build:all && npm run dev:ssr"
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "^3.1.2",

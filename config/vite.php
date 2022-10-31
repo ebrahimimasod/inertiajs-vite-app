@@ -13,7 +13,7 @@ return [
     'configs' => [
         'default' => [
             'entrypoints' => [
-                'ssr' => 'resources/scripts/ssr.js',
+                'ssr' => 'resources/scripts/ssr/ssr.js',
                 'paths' => [
                     'resources/css/tailwind.css',
                     'resources/scripts/main.ts',
@@ -30,7 +30,7 @@ return [
                 'key' => env('DEV_SERVER_KEY'),
                 'cert' => env('DEV_SERVER_CERT'),
             ],
-            'build_path' => 'build/server',
+            'build_path' => 'build',
         ],
     ],
 
