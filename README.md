@@ -26,13 +26,6 @@ run laravel application by below artisan command:
  php artisan serve
 ```
     
-    
-run laravel application with artisan command:
-
-```bash
- php artisan serve
-```
-    
 
     
 #### run the following npm commands as per your requirement :
